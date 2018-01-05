@@ -1,0 +1,33 @@
+1
+Jason Crockett
+Roland Dechain
+Peter Griffin
+7
+2
+101
+99
+Cookeville, TN
+Knoxville, TN
+St. Louis, Mo
+CEO
+President
+Toliet Cleaner
+Google
+McDonalds
+Jewlery Television
+938483
+399990
+10001
+435678
+Yellow Lamborghini
+Cobalt Blue Lamborghini
+Orangle El Camino
+
+ string live;
+   string marry;
+   string children; number1
+   string city; city
+   string company; company
+   string job; job
+   string salary; num1
+   string car; car
